@@ -11,8 +11,8 @@
 
 
 # Data:
-OpenStreetMap <br />
-Google Earth <br />
+* OpenStreetMap <br />
+* Google Earth <br />
 
 # Maps:
 
