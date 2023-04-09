@@ -14,4 +14,15 @@
 
 
 
-#Maps:
+# Maps:
+
+## by Alperen Mollaahmet
+
+
+## by Berkay Naldöken
+
+
+## by Pelin Bütünoğlu
+
+
+# SQL:
