@@ -7,8 +7,8 @@
 
 
 # Requirements:
--QGIS software installation and use.
--Gathering information on the topography, buildings, people density, roads, water supplies, and other geographical characteristics in the earthquake zone.
+-QGIS software installation and use. <br />
+-Collecting data on the terrain, structures, population density, roads, water resources, and other physical features in the earthquake zone. <br />
 -Collecting data on earthquake-prone structures.
 
 
