@@ -6,7 +6,7 @@
 # Case Study
 Delivery of rubble piles from the 6 February Earthquake to nearby rubble areas.
 
-# Aim and Objevtives:
+# Aim and Objectives:
 
 
 # Requirements:
