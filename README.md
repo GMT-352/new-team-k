@@ -3,6 +3,9 @@
 * Berkay Naldöken | 21833317
 * Pelin Bütünoğlu | 21957354
 
+# Case Study
+Delivery of rubble piles from the 6 February Earthquake to nearby rubble areas.
+
 # Aim and Objevtives:
 
 
@@ -27,4 +30,3 @@
 ## by Pelin Bütünoğlu
 
 
-# SQL:
