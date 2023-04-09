@@ -1,7 +1,7 @@
 # GMT352 GEOGRAPHIC INFORMATION SYSTEMS Assignment 2
 * Alperen Mollaahmet | 21967665
-* Berkay Naldöken |
-* Pelin Bütünoğlu |
+* Berkay Naldöken | 21833317
+* Pelin Bütünoğlu | 21957354
 
 # Aim and Objevtives:
 
