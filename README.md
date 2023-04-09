@@ -4,7 +4,8 @@
 * Pelin Bütünoğlu | 21957354
 
 # Case Study
-Delivery of rubble piles from the 6 February Earthquake to nearby rubble areas.
+- Delivery of rubble piles from the 6 February Earthquake to nearby rubble areas. <br />
+- Monitoring the occupancy rate of these lands in an up-to-date manner. <br />
 
 # Aim and Objectives:
 
