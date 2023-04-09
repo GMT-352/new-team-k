@@ -12,6 +12,7 @@
 
 # Data:
 OpenStreetMap
+Google Earth
 <br />
 
 # Maps:
