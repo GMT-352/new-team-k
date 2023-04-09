@@ -17,7 +17,7 @@
 # Maps:
 
 ## by Alperen Mollaahmet
-https://github.com/GMT-352/new-team-k/blob/main/Alperen_layout.png
+![Rubble Zones in Kahramanmaraş](https://github.com/GMT-352/new-team-k/blob/main/Alperen_layout.png)
 
 ## by Berkay Naldöken
 
