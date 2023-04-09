@@ -28,5 +28,5 @@ Delivery of rubble piles from the 6 February Earthquake to nearby rubble areas.
 ![Rubble Zones in Gaziantep](https://github.com/GMT-352/new-team-k/blob/main/Alperen_layout.png)
 
 ## by Pelin Bütünoğlu
-![Rubble Zones in Hatay](https://github.com/GMT-352/new-team-k/blob/main/Alperen_layout.png)
+![Rubble Zones in Hatay](https://github.com/GMT-352/new-team-k/blob/main/pelin1.png)
 
